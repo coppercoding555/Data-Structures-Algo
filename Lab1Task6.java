@@ -1,4 +1,4 @@
-public class Lab1Task6 {
+public class Lab1Task5{
     public static void main(String[] args) {
         int arr[] = getData(3); //arr 3
         printArr(arr);
